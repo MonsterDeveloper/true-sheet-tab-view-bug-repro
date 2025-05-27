@@ -9,7 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.coffeeopia.true-sheet-tab-view-bug-repro"
     },
     "android": {
       "adaptiveIcon": {
